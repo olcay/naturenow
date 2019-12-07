@@ -1,0 +1,27 @@
+{
+    "name": "cosmos",
+    "children": [
+        {
+            "name": "dünya",
+            "children": [
+                {
+                    "name": "kara",
+                    "children": [
+                        {
+                            "name": "doğal alan",
+                            "value": 45870333
+                        },
+                        {
+                            "name": "yerleşim alanı",
+                            "value": 103069667
+                        }
+                    ]
+                },
+                {
+                    "name": "su",
+                    "value": 361132000
+                }
+            ]
+        }
+    ]
+}
