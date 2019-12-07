@@ -2322,6 +2322,10 @@ input, select, textarea {
 				padding: 10em 0 12em 0;
 			}
 
+			.box.style1.right .inner {
+				min-height: 380px;
+			}
+
 	}
 
 /* Normal */
@@ -2388,6 +2392,7 @@ input, select, textarea {
 
 					.box.style1.right .inner {
 						padding-left: 2em;
+						min-height: unset;
 					}
 
 					.box.style1.left .inner {
@@ -2535,6 +2540,10 @@ input, select, textarea {
 						left: 0 !important;
 						width: 100% !important;
 						height: auto !important;
+					}
+
+					.box.style1 .image.iframe {
+						min-height: 538px;
 					}
 
 						.box.style1 .image img {
