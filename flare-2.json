@@ -2,23 +2,23 @@
     "name": "cosmos",
     "children": [
         {
-            "name": "dünya",
+            "name": "earth",
             "children": [
                 {
-                    "name": "kara",
+                    "name": "land",
                     "children": [
                         {
-                            "name": "doğal alan",
+                            "name": "natural habitat",
                             "value": 45870333
                         },
                         {
-                            "name": "yerleşim alanı",
+                            "name": "urban area",
                             "value": 103069667
                         }
                     ]
                 },
                 {
-                    "name": "su",
+                    "name": "water",
                     "value": 361132000
                 }
             ]
